@@ -1,0 +1,48 @@
+M-L > Edit.DeleteBlankLines (Text Editor)
+M-S-L > Edit.EmacsDeleteSelection (Text Editor)
+
+M-M > Edit.EmacsWordNext (Text Editor)
+M-S-M > Edit.EmacsWordPrevious (Text Editor)
+M-J > Edit.EmacsCharRight (Text Editor)
+M-F > Edit.EmacsCharLeft (Text Editor)
+
+M-A > Edit.EmacsLineStart (Text Editor)
+M-E > Edit.EmacsLineEnd (Text Editor)
+
+M-W > Edit.Cut (Text Editor)
+M-P > Editor.Paste (Text Editor)
+
+M-S > Edit.EmacsFindReplace (Text Editor)
+
+C-SPACE > Edit.EmacsSetMark (Text Editor)
+M-Q > Edit.SelectionCancel (Managed Resources Editor) (Settings Designer) (Text Editor) (Windows Forms Designer)
+
+M-D > Edit.EmacsWordDeleteToEnd (Text Editor)
+M-S-D > Edit.EmacsWordDeleteToStart (Text Editor)
+
+M-K > Window.NextDocumentWindowNav (Global)
+
+M-O > Edit.LineOpenBelow (Text Editor)
+M-S-O > Edit.LineOpenAbove (Text Editor)
+
+M-N > View.NextError (Text Editor)
+M-S-N > View.PreviousError (Text Editor)
+M-S-E > View.ErrorList (Text Editor)
+
+M-V > Edit.EmacsScrollPageDown (Text Editor)
+M-S-V > Edit.EmacsScrollPageUp (Text Editor)
+M-C > Edit.EmacsScrollLineCenter (Text Editor)
+
+M-X > File.Close (Text Editor)
+
+C-B > Build.Build (Global)
+C-S-B > Build.BuildSolution (Global)
+
+F5 > Debug.Start (Global)
+F9 > Debug.ToggleBreakpoint (Global)
+F10 > Debug.StepOver (Global)
+F11 > Debug.StepInto (Global)
+C-F10 > Debug.RunToCursor (Global)
+S-F5 > Debug.StopDebugging (Global)
+C-S-F5 > Debug.Restart (Global)
+C-F7 > Build.Compile (Global)
