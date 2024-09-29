@@ -1,4 +1,20 @@
+// Useful steps to replace the method argument list with other one fast: (This works on the method body too): 
+
+1- Place the cursor either at the end (the closing parenthesis)or the start (the opening parenthesis) of the method argument list that you want to copy from
+2- M-S-"]" > This will both highlight and select the entire method argument list (including the parenthesis or the curly brackets) or the method body between the curly brackets
+3- M-c > This will copy the selected region
+3- Now place the cursor again at the end or the start of the method argument list (or the method body) of the one you want to replace
+4- M-S-l > This will delete the selected region (including the parenthesis or the curly brackets)
+5- M-p > This now will paste the copied method argument list or the method body
+
+
 <<<<<< First make sure emacs extension is installed on VS" (Currently using Emacs Emulation by Justin Clareburt)
+
+M-"[" > Edit.NextMethod (Text Editor)
+M-"]" > Edit.PreviousMethod (Text Editor)
+M-S-"[" > Edit.GotoBrace (Text Editor)
+M-S-"]" > Edit.GotoBraceExtend (Text Editor)
+
 
 M-l > Edit.DeleteAboveBlankLines (Text Editor)
 M-S-l > Edit.EmacsDeleteSelection (Text Editor)
