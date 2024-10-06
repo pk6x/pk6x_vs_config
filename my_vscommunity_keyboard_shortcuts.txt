@@ -20,6 +20,8 @@ M-S-"." > Edit.EmacsDocumentEnd (Text Editor)
 
 M-"'" > Edit.CompleteWord (Text Editor)
 
+C-M + C-M > Toggle outlining expansion 
+
 M-l > Edit.DeleteAboveBlankLines (Text Editor)
 M-S-l > Edit.EmacsDeleteSelection (Text Editor)
 
