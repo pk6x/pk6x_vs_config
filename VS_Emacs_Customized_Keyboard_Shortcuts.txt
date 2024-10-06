@@ -15,6 +15,9 @@ M-"]" > Edit.PreviousMethod (Text Editor)
 M-S-"[" > Edit.GotoBrace (Text Editor)
 M-S-"]" > Edit.GotoBraceExtend (Text Editor)
 
+M-S-"," > Edit.EmacsDocumentStart (Text Editor)
+M-S-"." > Edit.EmacsDocumentEnd (Text Editor)
+
 
 M-l > Edit.DeleteAboveBlankLines (Text Editor)
 M-S-l > Edit.EmacsDeleteSelection (Text Editor)
