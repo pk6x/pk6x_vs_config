@@ -10,6 +10,9 @@
 
 <<<<<< First make sure emacs extension is installed on VS" (Currently using Emacs Emulation by Justin Clareburt)
 
+M-S-";" > Edit.InsertCaretstatAllMatching (Text Editor)
+M-C-S-";" > Edit.InsertNextMatchingCaret (Text Editor)
+
 M-"[" > Edit.NextMethod (Text Editor)
 M-"]" > Edit.PreviousMethod (Text Editor)
 M-S-"[" > Edit.GotoBrace (Text Editor)
